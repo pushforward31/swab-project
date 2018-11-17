@@ -1,9 +1,9 @@
 import React from "react";
-import "./Header.css"
+import "./selections.css"
 
-const Header = () => (
+const selections = () => (
     <div id="name">
       Cotton Swabs
     </div>
 );
-export default Header;
+export default selections;
